@@ -28,8 +28,6 @@ int main() {
     }while (i <= 8);
 
     
-        
-
 
 //Declarar variáveis para movimento cavalo.
 
